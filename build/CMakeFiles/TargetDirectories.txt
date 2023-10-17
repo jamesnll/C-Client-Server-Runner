@@ -1,0 +1,5 @@
+/home/jamesnl/CLionProjects/assignment3/build/CMakeFiles/server.dir
+/home/jamesnl/CLionProjects/assignment3/build/CMakeFiles/client.dir
+/home/jamesnl/CLionProjects/assignment3/build/CMakeFiles/format.dir
+/home/jamesnl/CLionProjects/assignment3/build/CMakeFiles/edit_cache.dir
+/home/jamesnl/CLionProjects/assignment3/build/CMakeFiles/rebuild_cache.dir
